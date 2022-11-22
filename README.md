@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hosi2020
+- 👋 Hi, I’m hosein.t
 - 👀 I am interested in programming
 - 🌱 I am training programming
 - 💞️
